@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'Amit Shinde — Indie Developer',
-  description: 'A minimalist, mobile-first profile site inspired by a polished dark Apple-style layout.',
+  description: 'A mobile-first profile site with a high-polish dark layout inspired by a minimalist Apple-style design.',
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

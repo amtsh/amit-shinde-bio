@@ -1,2 +1,3 @@
-# amit-shinde-bio
-Production-standard developer bio website for Amit Shinde.
+# Amit Shinde Bio
+
+Minimal editorial developer bio site for Amit Shinde.
